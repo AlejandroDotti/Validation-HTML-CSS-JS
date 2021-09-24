@@ -1,5 +1,5 @@
-# js-validation
+# Validation-HTML-CSS-JS
 
-Form Validation example (email / password) with Vanilla JS.
+Form validation example (Email & Password) with Vanilla JS.
 
 ![app image](images/image.png)
